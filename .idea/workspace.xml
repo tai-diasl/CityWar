@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6c97e48-1bb6-4e9c-8324-5e842a21923a" name="Changes" comment="Creating menu interactions &#10;Creating ABC class&#10;Creating Factory&#10;Level 1 Bg implementation: parallax">
+    <list default="true" id="c6c97e48-1bb6-4e9c-8324-5e842a21923a" name="Changes" comment="Fixing imports in level.py file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/entity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/Enemy1.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/Enemy1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/Enemy2.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/Enemy2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Const.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/enemy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/entityFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/entityFactory.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/level.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/player.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745593403740</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fixing imports in level.py file">
+      <option name="closed" value="true" />
+      <created>1745601478105</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745601478105</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +176,7 @@
     <MESSAGE value="Creating main loopConnecting Menu" />
     <MESSAGE value="Creating asset folder / Inserting all assets / Creating the menu: background, sound and fonts / Creating the const file" />
     <MESSAGE value="Creating menu interactions &#10;Creating ABC class&#10;Creating Factory&#10;Level 1 Bg implementation: parallax" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating menu interactions &#10;Creating ABC class&#10;Creating Factory&#10;Level 1 Bg implementation: parallax" />
+    <MESSAGE value="Fixing imports in level.py file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixing imports in level.py file" />
   </component>
 </project>
