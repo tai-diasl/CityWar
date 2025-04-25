@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6c97e48-1bb6-4e9c-8324-5e842a21923a" name="Changes" comment="Creating asset folder / Inserting all assets / Creating the menu: background, sound and fonts / Creating the const file">
+    <list default="true" id="c6c97e48-1bb6-4e9c-8324-5e842a21923a" name="Changes" comment="Creating menu interactions &#10;Creating ABC class&#10;Creating Factory&#10;Level 1 Bg implementation: parallax">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/entity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/level.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/menu.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,34 +30,34 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "tai-diasl"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tai-diasl&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/tai-diasl/CityWar.git",
-    "accountId": "c2fdec77-50bb-4f35-947d-28661f64e116"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tai-diasl/CityWar.git&quot;,
+    &quot;accountId&quot;: &quot;c2fdec77-50bb-4f35-947d-28661f64e116&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2vX1e2Hhkx6WWa7XEW5DMyE275r" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature__level"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature__level&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\talin\PycharmProjects\CityWar\asset" />
@@ -134,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745178411125</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Creating menu interactions &#10;Creating ABC class&#10;Creating Factory&#10;Level 1 Bg implementation: parallax">
+      <option name="closed" value="true" />
+      <created>1745593403740</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745593403740</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +163,7 @@
     <MESSAGE value="Adding classes generated from StarUML" />
     <MESSAGE value="Creating main loopConnecting Menu" />
     <MESSAGE value="Creating asset folder / Inserting all assets / Creating the menu: background, sound and fonts / Creating the const file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating asset folder / Inserting all assets / Creating the menu: background, sound and fonts / Creating the const file" />
+    <MESSAGE value="Creating menu interactions &#10;Creating ABC class&#10;Creating Factory&#10;Level 1 Bg implementation: parallax" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating menu interactions &#10;Creating ABC class&#10;Creating Factory&#10;Level 1 Bg implementation: parallax" />
   </component>
 </project>
