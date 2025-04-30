@@ -2,7 +2,7 @@
 # City War
 
 ### About
-City Was is a game developed with Pygame, for the Applied Programming Language project at my college.
+City War is a game developed with Pygame, for the Applied Programming Language project at my college.
 It has 2 levels and a menu with the following options:
 
 Play alone - 
