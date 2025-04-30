@@ -5,7 +5,7 @@ import pygame
 COLOR_ORANGE = (255, 128, 0)
 COLOR_YELLOW = (255, 255, 128)
 COLOR_WHITE = (255, 255, 255)
-COLOR_PRETO = (0, 0, 0)
+COLOR_BLACK = (0, 0, 0)
 COLOR_GREEN = (0, 128, 0)
 COLOR_CYAN = (0, 128, 128)
 
@@ -139,3 +139,15 @@ TIMEOUT_STEP = 100  # 100ms
 # Tamanho da janela
 WIN_WIDTH = 576
 WIN_HEIGHT = 324
+
+# Constantes com S, pós WIN_WIDTH
+SCORE_POS = {'Title': (WIN_WIDTH / 2, 50),
+             'EnterName': (WIN_WIDTH / 2, 80),
+             'Label': (WIN_WIDTH / 2, 90),
+             'Name': (WIN_WIDTH / 2, 110),
+             0: (WIN_WIDTH / 2, 110),
+             1: (WIN_WIDTH / 2, 130),
+             2: (WIN_WIDTH / 2, 150),
+             3: (WIN_WIDTH / 2, 170),
+             4: (WIN_WIDTH / 2, 190)
+}
